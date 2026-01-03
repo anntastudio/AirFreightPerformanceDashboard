@@ -20,7 +20,7 @@ Slower periods:
 * Average rate - equals to revenue divided by weight
 <br>
 
-### Current Outlook
+### Current Performance
 <img width="1667" height="949" alt="image" src="https://github.com/user-attachments/assets/12d15243-346c-4432-8ad7-d75404bc74b9" />
 
 Satnaq's freight division delivered $4.0 billion in revenue for FY25, with cargo operations contributing 97% ($3.88B) and mail services 3% ($124M). The business maintains a balanced operational model with freight equally distributed between dedicated freighter aircraft and passenger belly capacity.
