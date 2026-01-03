@@ -20,7 +20,7 @@ Slower periods:
 * Average rate - equals to revenue divided by weight
 <br>
 
-### Current Performance
+### Current performance
 <img width="1667" height="949" alt="image" src="https://github.com/user-attachments/assets/12d15243-346c-4432-8ad7-d75404bc74b9" />
 
 Satnaq's freight division delivered $4.0 billion in revenue for FY25, with cargo operations contributing 97% ($3.88B) and mail services 3% ($124M). The business maintains a balanced operational model with freight equally distributed between dedicated freighter aircraft and passenger belly capacity.
@@ -30,7 +30,7 @@ Satnaq's freight division delivered $4.0 billion in revenue for FY25, with cargo
 |Asia remains our strongest market at $1,938M, demonstrating robust growth of 37% from Q1 to Q4. The Americas emerged as our fastest-growing region with $1,536M in revenue and exceptional 39% quarter-on-quarter acceleration. Australasia contributed $438M with healthy 54% growth trajectory. UKEMEA at $93M offers considerable expansion opportunity. |Chicago O'Hare (ORD) leads origin points at 30% of revenue, followed by Shanghai Pudong (24%) and Hong Kong (17%). On the destination side, Sydney commands 49% of all revenue at $1.6B, with Melbourne adding another 17%. Combined, Australian destinations represent two-thirds of our total revenue, indicating significant market dependency. |QGQ 2 dominates at $2.5B ($7/kg), split between Kalulu Cargo ($1.7B) and Satnaq ($745M). QGQ 9 generates $796M at premium $15/kg rates via Kalulu Cargo. Satnaq operates mid-tier products (QGQ 4-5: $439M combined) and Mail ($124M). Premium products PRIORITY and QGQ 7 offer high yields ($25/kg, $18/kg) but lower volumes ($21M, $20M). |Average price of $7-$25/kg across carriers presents pricing and capacity optimisation opportunities. The strong Q4 performance across all regions provides positive momentum entering the new fiscal year. However, our heavy reliance on Australian destinations and limited UKEMEA presence present both risk and investment potentials. The focus is to optimise fleet utilisation by working with external stakeholders and other carriers while minimising costs. |
 <br>
 
-### Looking forward
+### Looking ahead
 
 <img width="1691" height="700" alt="image" src="https://github.com/user-attachments/assets/12d048a9-376a-4c02-a833-1e801a1b65e2" />
 
